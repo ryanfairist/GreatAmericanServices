@@ -1,0 +1,22 @@
+body{
+	font-family:"Oswald", Arial;
+	color:#1a395c;
+}
+.logo{
+	margin-top:5px;
+}
+/*NAVIGATION*/
+.navbar{
+	margin:0px;
+}
+/*JUMBOTRON*/
+.jumbotron {
+	margin: 0px;
+	text-align:center;
+	position: relative;
+    background:url("http://i1382.photobucket.com/albums/ah266/ryanfairist/multipletrucksfrontHighlight_zpsu2weskdv.jpg") center center no-repeat;
+    width: 100%;
+    height: 100%;
+    
+  
+}
