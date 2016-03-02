@@ -10,6 +10,17 @@ body{
 	margin:0px;
 
 }
+
+/*ESTABLISHED*/
+.est{
+	background-color:#ed0812;
+	color:#fff;
+}
+.est p{
+	margin-left:155px;
+	padding-top:10px;
+	font-family:Arial;
+}
 /*JUMBOTRON*/
 .jumbotron {
 	margin: 0px;
@@ -56,4 +67,9 @@ hr {
 	margin-left:10%;
 	border: 2px solid #fff;
 	 margin: 0 auto;
+}
+
+/*CONTACT*/
+#contact h1, p{
+	text-align:center;
 }
