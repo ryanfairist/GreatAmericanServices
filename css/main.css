@@ -1,6 +1,6 @@
 body{
 	font-family:"Oswald", Arial;
-	color:#1a395c;
+	color:#0C1B2B; 
 }
 .logo{
 	margin-top:5px;
@@ -8,7 +8,7 @@ body{
 /*NAVIGATION*/
 .navbar{
 	margin:0px;
-	
+
 }
 /*JUMBOTRON*/
 .jumbotron {
@@ -19,6 +19,7 @@ body{
     width: 100%;
     height: 100%;
     background-size: cover;
+    color:#1a395c;
   
 }
 
@@ -30,4 +31,29 @@ hr {
 
 #about h4, p, li{
 	margin-left: 25px;
+
+
+}
+
+/*SERVICES*/
+ #services {
+	text-align: center;
+	/*color:#0C1B2B;*/
+	background-color: #0C1B2B;
+	padding-top: 25px;
+}
+#services h4{
+	font-weight:bold;
+	color:#fff;
+	font-family:Arial;
+}
+#services p {
+	color:#fff;
+	font-family:Arial;
+}
+#services img{
+	
+	margin-left:10%;
+	border: 2px solid #fff;
+	 margin: 0 auto;
 }
