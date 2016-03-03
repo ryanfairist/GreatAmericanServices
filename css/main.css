@@ -74,3 +74,17 @@ hr {
 	text-align:center;
 }
 
+/*@MEDIA*/
+@media only screen and (max-width: 387px) {
+   .est{
+	text-align: right;
+	}
+	.jumbotron{
+		background:url("http://i1382.photobucket.com/albums/ah266/ryanfairist/multipletrucksfrontJumbotron_zpsedphx5cg.jpg") center center no-repeat;
+	}
+
+	.logo{
+	width:50%;
+}
+
+}
