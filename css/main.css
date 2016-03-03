@@ -74,9 +74,7 @@ hr {
 
 /*@MEDIA*/
 @media only screen and (max-width: 387px) {
-   .est{
-	text-align: right;
-	}
+   
 	
 
 	.logo{
@@ -93,5 +91,10 @@ hr {
 @media only screen and (max-width: 555px){
 	.jumbotron{
 		background:url("http://i1382.photobucket.com/albums/ah266/ryanfairist/multipletrucksfrontJumbotron_zpsedphx5cg.jpg") center center no-repeat;
+	}
+}
+@media only screen and (max-width: 709px) {
+	.est{
+	text-align: right;
 	}
 }
